@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 – Critical-Responsible Use of GenAI for Data Science"
-author: "SANR: Nihad, Saleh, Adams, Raiq"
+author: "SANRZ: Nihad, Saleh, Adams, Raiq, Zvchary"
 date: "`r Sys.Date()`"
 output: html_document
 ---
